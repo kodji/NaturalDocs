@@ -1,5 +1,13 @@
 [
   {
+    "caption": "NaturalDocs: Insert Block",
+    "command": "natural_docs_insert_block"
+  },
+  {
+    "caption": "NaturalDocs: Group",
+    "command": "natural_docs_group"
+  },
+  {
     "caption": "NaturalDocs: Add Comment",
     "command": "natural_docs"
   },

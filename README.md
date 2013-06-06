@@ -1,10 +1,21 @@
-NaturalDocs is a [Sublime Text 2](http://www.sublimetext.com/) package which makes writing [NaturalDocs](http://www.naturaldocs.org) easy. Based on [DocBlockr](https://github.com/spadgos/sublime-jsdocs) by [Nick Fisher](https://github.com/spadgos), influenced by [Germán M. Bravo](https://github.com/Kronuz)'s [SublimeLinter](https://github.com/Kronuz/SublimeLinter).
+План по развитию этого форка:
+- изменяются горячие клавиши
+- затачивается под Sublime Text 3
+- только для Mac OSX
+- убирается perl
+- добавляется jade, less и shell script
+
+NaturalDocs is a [Sublime Text 3](http://www.sublimetext.com/) package which makes writing [NaturalDocs](http://www.naturaldocs.org) easy. Based on [DocBlockr](https://github.com/spadgos/sublime-jsdocs) by [Nick Fisher](https://github.com/spadgos), influenced by [Germán M. Bravo](https://github.com/Kronuz)'s [SublimeLinter](https://github.com/Kronuz/SublimeLinter).
 
 # Languages
 
-Currently supported languages: CoffeeScript, Java, JavaScript, Perl, PHP, and Python.
+Поддержка языков будет изменена
+
+Currently supported languages: CoffeeScript, Java, JavaScript, PHP, and Python.
 
 # Usage
+
+Кнопки будут изменены
 
 The easiest way to use this plugin is to put the cursor near what you want to document and press `Super+N` (or `Super+N` + `Super+N` for OSX).
 
